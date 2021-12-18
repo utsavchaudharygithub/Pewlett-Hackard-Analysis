@@ -1,4 +1,4 @@
--- The Number of Retiring Employees by Title
+--The Number of Retiring Employees by Title
 SELECT em.emp_no, 
         em.first_name, 
         em.last_name,
